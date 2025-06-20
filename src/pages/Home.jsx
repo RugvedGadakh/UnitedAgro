@@ -3,12 +3,12 @@
 import { Helmet } from "react-helmet-async"
 import HeroSection from "../components/sections/HeroSection"
 // import AboutSection from "../components/sections/AboutSection"
-// import FunFactsSection from "../components/sections/FunFactsSection"
+import FunFactsSection from "../components/sections/FunFactsSection"
 import FeaturesSection from "../components/sections/FeaturesSection"
 import FeaturedProductsSection from "../components/sections/FeaturedProductsSection"
 // import GlobalPresenceSection from "../components/sections/GlobalPresenceSection"
-// import LeadSection from "../components/sections/LeadSection"
-// import "./Home.css"
+import LeadSection from "../components/sections/LeadSection"
+import "./Home.css"
 
 const Home = () => {
   const structuredData = {
@@ -43,11 +43,11 @@ const Home = () => {
       <div className="home-page">
         <HeroSection />
         {/* <AboutSection /> */}
-        {/* <FunFactsSection /> */}
         <FeaturesSection />
         <FeaturedProductsSection />
+        <FunFactsSection />
         {/* <GlobalPresenceSection /> */}
-        {/* <LeadSection /> */}
+        <LeadSection />
       </div>
     </>
   )

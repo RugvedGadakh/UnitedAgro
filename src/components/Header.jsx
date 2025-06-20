@@ -39,7 +39,7 @@ const Header = () => {
       <div className="container header-container">
         <Link to="/" className="logo">
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
-            FrozenDelights
+            UnitedAgro
           </motion.div>
         </Link>
 
