@@ -8,7 +8,7 @@ export const allProducts = [
     shortDescription: "Premium quality sweet corn kernels, flash-frozen to preserve sweetness and nutrients.",
     description:
       "Our frozen sweet corn is carefully selected from the finest farms and flash-frozen within hours of harvest to lock in the natural sweetness and nutritional value. Each kernel is perfectly preserved, making it ideal for soups, salads, side dishes, and more. Rich in fiber, vitamins, and antioxidants, our sweet corn brings farm-fresh taste to your table year-round.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "images/sweetCorn.jpg?height=300&width=400",
     highlights: [
       "Flash-frozen within hours of harvest",
       "No artificial preservatives",
@@ -41,7 +41,7 @@ export const allProducts = [
     shortDescription: "A colorful blend of premium vegetables including carrots, peas, corn, and green beans.",
     description:
       "Our frozen mixed vegetables combine the best of nature's bounty in one convenient package. This carefully crafted blend includes tender carrots, sweet peas, crisp corn kernels, and fresh green beans, all flash-frozen at peak ripeness. Perfect for busy families who want nutritious, delicious vegetables without the prep work.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "images/mixVeg.jpg?height=300&width=400",
     highlights: [
       "Four premium vegetables in one package",
       "Flash-frozen for maximum nutrition",
@@ -74,7 +74,7 @@ export const allProducts = [
     shortDescription: "Tender, sweet green peas picked at peak freshness and flash-frozen for optimal taste.",
     description:
       "Our frozen green peas are harvested at the perfect moment when they're at their sweetest and most tender. Flash-frozen immediately after picking, these peas retain their bright green color, sweet flavor, and nutritional benefits. They're an excellent source of protein, fiber, and essential vitamins, making them a healthy addition to any meal.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "images/peas.jpg?height=300&width=400",
     highlights: [
       "Picked at peak sweetness",
       "High in protein and fiber",
